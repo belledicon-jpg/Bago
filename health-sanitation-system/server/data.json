@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": "ms9dpb3hpdajxe3wgrq",
+      "name": "jean carla domingo",
+      "email": "jeancarladomingo0@gmail.com",
+      "password": "$2a$10$iKiqo07mwPj7BVVwhcWraueh5J6ciHJkWK5ROXLQYlfG5vb9Ka8.S",
+      "createdAt": "2026-07-31T20:12:06.893Z"
+    },
+    {
+      "id": "mszplg1b289b70849b89",
+      "name": "Admin User",
+      "email": "admin@test.com",
+      "password": "$2a$10$yoABzR2bQ/llzWL/ZaX3PeTLdGG4Olo0MtC2f0DW2dnvn/yH3Sz.m",
+      "createdAt": "2026-08-19T06:27:02.639Z"
+    },
+    {
+      "id": "mszpr9sj6c12388f4db4",
+      "name": "belle",
+      "email": "belledicon@gmail.com",
+      "password": "$2a$10$xNUSjNKpVckICaKvdwwhXus7box1QKeKA2Zr7TUh8nm2x/m/uV1c.",
+      "createdAt": "2026-08-19T06:31:34.483Z"
+    }
+  ],
+  "verificationCodes": [
+    {
+      "id": "ms9efg3iadfdf1993666",
+      "email": "jeancarladomingo0@gmail.com",
+      "code": "425418",
+      "expiresAt": 1785530546430,
+      "used": false,
+      "createdAt": 1785529946430
+    },
+    {
+      "id": "ms9efx33b2585ca802ee",
+      "email": "jeancarladomingo0@gmail.com",
+      "code": "665327",
+      "expiresAt": 1785530568447,
+      "used": false,
+      "createdAt": 1785529968447
+    },
+    {
+      "id": "ms9eitql9250a489f3fc",
+      "email": "jeancarladomingo0@gmail.com",
+      "code": "243129",
+      "expiresAt": 1785530704077,
+      "used": false,
+      "createdAt": 1785530104077
+    },
+    {
+      "id": "ms9eo38ne288f39c8143",
+      "email": "jeancarladomingo0@gmail.com",
+      "code": "592596",
+      "expiresAt": 1785530949671,
+      "used": false,
+      "createdAt": 1785530349671
+    }
+  ],
+  "resetTokens": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im1zOWRwYjNocGRhanhlM3dncnEiLCJlbWFpbCI6ImplYW5jYXJsYWRvbWluZ28wQGdtYWlsLmNvbSIsImlhdCI6MTc4NTUyODc1MywiZXhwIjoxNzg1NTMyMzUzfQ.ukzeAASdLvNr50wOecWwXZ2IsCAVYwYLkdgZFngrhew",
+      "email": "jeancarladomingo0@gmail.com",
+      "createdAt": 1785528753484
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im1zOWRwYjNocGRhanhlM3dncnEiLCJlbWFpbCI6ImplYW5jYXJsYWRvbWluZ28wQGdtYWlsLmNvbSIsImlhdCI6MTc4NTUyODk4MSwiZXhwIjoxNzg1NTMyNTgxfQ.ItiPOzhylQky6iSDbdr12F_khVqchSPtrPAuN69hMfg",
+      "email": "jeancarladomingo0@gmail.com",
+      "createdAt": 1785528981023
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im1zOWRwYjNocGRhanhlM3dncnEiLCJlbWFpbCI6ImplYW5jYXJsYWRvbWluZ28wQGdtYWlsLmNvbSIsImlhdCI6MTc4NTUyOTEyNiwiZXhwIjoxNzg1NTMyNzI2fQ.8hBHSV5OQIMfbLDxEd_lXaFBAgS5GLC5eHdR89oOuV8",
+      "email": "jeancarladomingo0@gmail.com",
+      "createdAt": 1785529126878
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im1zOWRwYjNocGRhanhlM3dncnEiLCJlbWFpbCI6ImplYW5jYXJsYWRvbWluZ28wQGdtYWlsLmNvbSIsImlhdCI6MTc4NTUyOTQ5OCwiZXhwIjoxNzg1NTMzMDk4fQ.OLUd9y-F-W5ra60XLVOUhKhwaNisa_TSYWvuu-0Cnx8",
+      "email": "jeancarladomingo0@gmail.com",
+      "createdAt": 1785529498969
+    },
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Im1zOWRwYjNocGRhanhlM3dncnEiLCJlbWFpbCI6ImplYW5jYXJsYWRvbWluZ28wQGdtYWlsLmNvbSIsImlhdCI6MTc4NTUyOTUzMSwiZXhwIjoxNzg1NTMzMTMxfQ.AlqHfpMfv7F48MiyiFHdH4VA71uTyMqoG3WH1PkSbb0",
+      "email": "jeancarladomingo0@gmail.com",
+      "createdAt": 1785529531487
+    }
+  ]
+}
